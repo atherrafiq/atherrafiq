@@ -81,6 +81,7 @@
 📌 **Unity 3D Game Developer** | *MIZO Studio 🎮*  
 - Developed 3D games with **Unity 3D & C#**, integrating Consoli Ads API  
 
+<!--
 ---
 
 ### 📈 GitHub Stats
@@ -93,6 +94,7 @@
 </p>
 
 ---
+-->
 
 ### 📫 Let's Connect
 <p align="center">
