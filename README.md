@@ -1,223 +1,181 @@
-<h1 align="center">Hi there, I'm Ather Rafiq 👋</h1>
+<h1 align="center">Hi, I'm Ather Rafiq 👋</h1>
 
 <p align="center">
-🚀 Backend-Focused Python Developer | FastAPI • Flask • Django | Cloud, DevOps & Data Engineering
+  <strong>Backend-Focused Python Developer</strong><br/>
+  Python • FastAPI • Flask • Django • REST APIs • PostgreSQL • Cloud • Docker • Kubernetes
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ather1rafiq/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/atherrafiq" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:ather1rafiq@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/ather1rafiq/">LinkedIn</a> •
+  <a href="mailto:ather1rafiq@gmail.com">Email</a> •
+  <a href="https://github.com/atherrafiq">GitHub</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a backend-focused Python Developer with **8+ years of experience** designing and developing scalable backend systems, RESTful APIs, microservices, ETL pipelines, automation workflows, SaaS applications, and enterprise solutions.
+Backend-focused Python Developer with **7+ years of professional software engineering experience** building production backend systems, REST APIs, SaaS and enterprise applications, ETL/data-processing pipelines, automation workflows, and web/mobile integrations.
 
-My core expertise includes **Python, FastAPI, Flask, Django, SQLAlchemy, PostgreSQL, MongoDB, Docker, Kubernetes, CI/CD, cloud platforms, API security, and data engineering workflows**.
+I currently work as a **Full Stack Python Developer in Abu Dhabi, UAE**, with hands-on experience across **Python, FastAPI, Flask, Django, SQLAlchemy, PostgreSQL, SQL/NoSQL databases, API security, AWS, Azure, Docker, Kubernetes, Linux, and Nginx**.
 
-I have worked on production systems for **compliance, fuel management, manpower tracking, equipment tracking, analytics, reporting, mobile integrations, and workflow automation**.
+My strongest areas are:
 
-I also use modern AI-assisted development tools such as **Cursor, Claude Code, ChatGPT, GitHub Copilot, and Cline** to improve productivity, speed up development, and build better engineering workflows.
+- Backend architecture and API development
+- FastAPI, Flask, and Django applications
+- REST API design, integrations, authentication, and authorization
+- PostgreSQL, SQL Server, MongoDB, and data modeling
+- ETL, automation, bulk processing, and operational workflows
+- Docker, Kubernetes, CI/CD, Linux, Nginx, AWS, and Azure
+- Production troubleshooting and deployment support
+- AI-assisted software development using Cursor, Claude Code, ChatGPT, GitHub Copilot, and Cline
 
----
-
-## 🛠 Tech Stack
-
-### **Languages & Backend Frameworks**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-</p>
-
-### **Frontend & Mobile**
-
-<p>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### **Databases & Data Engineering**
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-4B8BBE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### **Cloud, DevOps & Infrastructure**
-
-<p>
-  <img src="https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Functions-0078D4?style=for-the-badge&logo=azurefunctions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
-
-### **Security & API Engineering**
-
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth%202.0-3C3C3C?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Security-0052CC?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Authorization%20Controls-2E3440?style=for-the-badge&logo=keycloak&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Encryption-4A154B?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-</p>
-
-### **AI, Automation & Developer Productivity**
-
-<p>
-  <img src="https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic%20AI%20Workflows-FFB000?style=for-the-badge&logo=googlegemini&logoColor=black" />
-</p>
+I enjoy building practical systems that solve operational problems, improve reliability, and reduce manual work.
 
 ---
 
-## 💼 Professional Experience
+## 🛠 Core Technology Stack
 
-### 📌 Full-Stack Python Developer
+### Backend & APIs
+`Python` · `FastAPI` · `Flask` · `Django` · `REST APIs` · `Microservices` · `SQLAlchemy` · `Django ORM` · `Async Programming`
 
-**National Marine Dredging Company | Abu Dhabi, UAE**
-**January 2022 – Present**
+### Databases & Data
+`PostgreSQL` · `SQL Server` · `SQLite` · `MongoDB` · `Firebase` · `Pandas` · `NumPy` · `ETL Pipelines` · `Airbyte` · `Kafka` · `Spark`
 
-* Developed and maintained scalable backend services and RESTful APIs using **Python, Flask, and FastAPI**.
-* Built internal SaaS applications to digitize operations and automate bulk workflows.
-* Designed **ETL pipelines** and data-processing workflows for analytics, dashboards, reporting, and downstream systems.
-* Developed **React Native mobile applications** integrated with Python APIs for field teams.
-* Implemented offline-first mobile workflows with local storage and live synchronization.
-* Built backend modules for compliance, fuel management, manpower tracking, equipment tracking, and NFC-based equipment identification.
-* Implemented secure authentication and authorization using **JWT, OAuth-based controls, encryption, and API gateway patterns**.
-* Designed database schemas and data access layers using **SQLAlchemy and Django ORM**.
-* Created dashboards, Python automation scripts, ETL jobs, testing utilities, bulk processing scripts, and deployment-support tools.
+### Cloud & DevOps
+`AWS` · `Azure` · `DigitalOcean` · `Docker` · `Kubernetes` · `CI/CD` · `Linux` · `Nginx`
 
----
+### Security & Integration
+`JWT` · `OAuth 2.0` · `RBAC` · `API Security` · `Data Encryption` · `API Integrations`
 
-### 📌 Python Developer
+### Frontend & Mobile
+`React.js` · `React Native` · `JavaScript` · `jQuery` · `HTML` · `CSS` · `Bootstrap`
 
-**A-TECH | Lahore, Pakistan**
-**January 2021 – December 2021**
-
-* Developed backend systems using **Python, Django, and Flask** with SQL and NoSQL databases.
-* Built scalable and high-availability web applications.
-* Implemented secure API authentication using **JWT-based authentication** and role-based access controls.
-* Designed and developed an admin panel for **TempoDigital.org** using C# MVC, YouTube Analytics API, payment gateways, Azure Blob Storage, and SQL hosting on Azure.
-* Planned, developed, debugged, deployed, and supported CRM and SaaS applications.
-* Deployed and maintained applications on Linux environments using **Nginx, AWS Linux, and DigitalOcean**.
-* Managed Linux infrastructure tasks including firewall configuration, log monitoring, server administration, and uptime support.
+### AI-Assisted Development
+`Cursor` · `Claude Code` · `ChatGPT` · `GitHub Copilot` · `Cline` · `Prompt Engineering`
 
 ---
 
-### 📌 Full Stack Python Developer
+## 🚀 Selected Projects
 
-**Risk Pin - A Group of Technology Tree | Lahore, Pakistan**
-**January 2019 – December 2020**
+### 📚 [Library Management System – FastAPI](https://github.com/atherrafiq/library-ms)
 
-* Built full-stack web applications using **Python, Flask, MongoDB, SQL, HTML, CSS, Bootstrap, JavaScript, AJAX, and JSON**.
-* Developed backend services using Flask and integrated MongoDB Atlas, NoSQL databases, and SQL databases.
-* Implemented secure RESTful APIs with JWT-based authentication.
-* Modernized and refactored legacy codebases to improve performance, maintainability, stability, and operating efficiency.
-* Supported Linux server administration, log monitoring, firewall configuration, deployment, and production issue resolution.
-* Collaborated remotely with UK-based project managers, QA teams, and customers.
+Backend-focused library management API built with **FastAPI**, **PostgreSQL**, **SQLModel / SQLAlchemy**, custom **JWT authentication**, role-based access control, and Docker.
+
+**Highlights**
+- CRUD APIs for libraries, books, users, and borrowing workflows
+- JWT authentication and authorization
+- Async PostgreSQL integration
+- Role-based access controls
+- Swagger / ReDoc API documentation
+- Docker-based development workflow
+
+**Tech:** `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `JWT` · `Docker`
 
 ---
 
-### 📌 Unity 3D Game Developer
+### 🤖 [ChatPilot – Flask & OpenAI](https://github.com/atherrafiq/chatpilot-openai-flask)
 
-**MIZO Studio - Group of OZI Technology | Lahore, Pakistan**
-**August 2018 – October 2018**
+Conversational AI web application built with **Flask** and the **OpenAI API**, with LangChain-based integration for interactive AI conversations.
 
-* Designed and developed 3D games using **Unity 3D, C#, JavaScript, and Maya**.
-* Converted story scripts into gameplay scenarios with core logic implemented in C# and JavaScript.
-* Built production-ready APK builds integrated with Consoli Ads API.
-* Developed custom C# tools for asset bundle uploads, progress tracking, debugging, testing, and legacy game improvements.
+**Highlights**
+- Flask-based web application
+- OpenAI API integration
+- LangChain integration
+- Environment-based API key configuration
+- Production deployment guidance using WSGI servers
+
+**Tech:** `Python` · `Flask` · `OpenAI API` · `LangChain`
+
+---
+
+## 🌍 Open Source Contributions
+
+### [ScamShield API – OpenAPI Documentation Improvements](https://github.com/ashrafee-dev/scamshield-api/pull/82)
+
+Contributed improvements to a third-party **FastAPI** project by adding:
+
+- Application-level OpenAPI metadata
+- Endpoint summaries and descriptions
+- Documented HTTP error responses
+- WebSocket documentation
+- Regression tests for API documentation metadata
+
+**Status:** Pull request currently under review.
+
+---
+
+## 💼 Professional Engineering Highlights
+
+### National Marine Dredging Company — Full Stack Python Developer
+**Abu Dhabi, UAE | Jan 2022 – Present**
+
+- Build scalable Python backend services and REST APIs using **Flask and FastAPI**
+- Develop internal SaaS and enterprise applications for operational workflows
+- Design ETL and data-processing pipelines for analytics and reporting
+- Build React Native applications integrated with Python APIs
+- Implement offline-first synchronization for low-connectivity field environments
+- Develop backend systems for fuel, manpower, equipment, and compliance workflows
+- Implement JWT/OAuth-based security and authorization controls
+- Support deployment, testing, automation, and production systems
+
+### Previous Experience
+
+**A-TECH — Python Developer**  
+Django, Flask, SQL/NoSQL, Azure, AWS/DigitalOcean, Linux, Nginx, API integrations and SaaS applications.
+
+**Risk Pin — Full Stack Python Developer**  
+Python, Flask, MongoDB, SQL, REST APIs, JavaScript, Linux deployment and remote collaboration with UK-based teams.
+
+---
+
+## 🔧 Professional Project Areas
+
+Some of my production work is developed for internal enterprise environments and cannot be published publicly. Key areas include:
+
+- **Offline-first field applications** — React Native applications integrated with Python APIs and synchronization workflows
+- **Operational management systems** — fuel monitoring, manpower tracking, equipment tracking, and NFC-based identification
+- **Data & reporting platforms** — ETL pipelines, data validation, dashboards, automation, and bulk processing
+- **Enterprise & SaaS systems** — secure APIs, administrative applications, CRM workflows, and third-party integrations
 
 ---
 
 ## 🎓 Education
 
-**M.S. in Computer Sciences**
-COMSATS University, Islamabad - Lahore Campus, Pakistan
-**August 2022 | GPA: 3.35/4**
+**M.S. in Computer Sciences**  
+COMSATS University Islamabad, Lahore Campus — **GPA 3.35 / 4.00**
 
-**B.S. in Computer Sciences**
-University of the Punjab, Lahore, Pakistan
-**August 2018 | GPA: 3.12/4**
+**B.S. in Computer Sciences**  
+University of the Punjab — **GPA 3.12 / 4.00**
 
 ---
 
 ## 📜 Certifications
 
-* REST APIs with Flask and Python - Udemy
-* Advanced REST APIs with Flask and Python - Udemy
-
----
-
-## 📚 Relevant Coursework
-
-* Data Structures & Algorithms
-* Machine Learning
-* Full Stack Development
-* Deep Neural Networks
-* Natural Language Processing
+- REST APIs with Flask and Python — Udemy
+- Advanced REST APIs with Flask and Python — Udemy
 
 ---
 
 ## 🏆 Achievement
 
-Winner of the **City Organization Award for Transportation Technology** at the 7th Annual Invention to Innovation Summit 2018, University of the Punjab, Lahore.
+**City Organization Award for Transportation Technology**  
+7th Annual Invention to Innovation Summit 2018, University of the Punjab, Lahore.
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Current Interests
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ather1rafiq/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/atherrafiq" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:ather1rafiq@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+I am interested in opportunities involving:
+
+`Python Backend Engineering` · `FastAPI / Django` · `Distributed Systems` · `API Platforms` · `Data Engineering` · `Cloud-Native Applications` · `Automation` · `Open Source`
+
+I am open to **remote international opportunities** and **relocation worldwide**.
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/ather1rafiq](https://www.linkedin.com/in/ather1rafiq/)
+- **GitHub:** [github.com/atherrafiq](https://github.com/atherrafiq)
+- **Email:** [ather1rafiq@gmail.com](mailto:ather1rafiq@gmail.com)
