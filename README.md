@@ -58,19 +58,6 @@ I enjoy building practical systems that solve operational problems, improve reli
 
 ## 🚀 Selected Projects
 
-### 📚 [Library Management System – FastAPI](https://github.com/atherrafiq/library-ms)
-
-Backend-focused library management API built with **FastAPI**, **PostgreSQL**, **SQLModel / SQLAlchemy**, custom **JWT authentication**, role-based access control, and Docker.
-
-**Highlights**
-- CRUD APIs for libraries, books, users, and borrowing workflows
-- JWT authentication and authorization
-- Async PostgreSQL integration
-- Role-based access controls
-- Swagger / ReDoc API documentation
-- Docker-based development workflow
-
-**Tech:** `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `JWT` · `Docker`
 
 ---
 
