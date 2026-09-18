@@ -31,8 +31,6 @@ src="https://komarev.com/ghpvc/?username=atherrafiq&style=flat-square&color=0A66
 alt="Profile views"
 />
 
-<br/><br/>
-
 <a href="https://github.com/atherrafiq">
   <img
     src="https://streak-stats.demolab.com?user=atherrafiq&hide_border=true"
