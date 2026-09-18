@@ -86,29 +86,22 @@ I'm particularly interested in combining **backend engineering with applied AI**
 
 <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square" />
 <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Neural_Networks-8A2BE2?style=flat-square" />
 <img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square" />
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT_API-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-5A67D8?style=flat-square" />
-<img src="https://img.shields.io/badge/Model_Training-FF6F00?style=flat-square" />
-
-### AI Concepts & Workflows
-
-<img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-5A67D8?style=flat-square" />
 <img src="https://img.shields.io/badge/Model_Training-FF6F00?style=flat-square" />
 <img src="https://img.shields.io/badge/Model_Evaluation-0A66C2?style=flat-square" />
 <img src="https://img.shields.io/badge/Data_Preprocessing-3776AB?style=flat-square" />
 <img src="https://img.shields.io/badge/Feature_Engineering-009688?style=flat-square" />
-<img src="https://img.shields.io/badge/Neural_Networks-8A2BE2?style=flat-square" />
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square" />
-<img src="https://img.shields.io/badge/AI_Automation-4A154B?style=flat-square" />
-<img src="https://img.shields.io/badge/AI--Assisted_Development-181717?style=flat-square&logo=githubcopilot&logoColor=white" />
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Integration-5A67D8?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=flat-square" />
 <img src="https://img.shields.io/badge/RAG-0066CC?style=flat-square" />
 <img src="https://img.shields.io/badge/Embeddings-7B61FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Vector_Search-2E8B57?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Automation-4A154B?style=flat-square" />
+<img src="https://img.shields.io/badge/AI--Assisted_Development-181717?style=flat-square&logo=githubcopilot&logoColor=white" />
 
 ### Data & Databases
 
