@@ -27,6 +27,17 @@ Currently working as a **Full Stack Python Developer in Abu Dhabi, UAE**.
 </div>
 
 ---
+## 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/atherrafiq">
+  <img src="https://streak-stats.demolab.com?user=atherrafiq&hide_border=true" alt="GitHub Streak" />
+</a>
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -72,18 +83,6 @@ I enjoy turning operational problems into dependable software systems.
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/atherrafiq">
-  <img src="https://streak-stats.demolab.com?user=atherrafiq&hide_border=true" alt="GitHub Streak" />
-</a>
 
 </div>
 
