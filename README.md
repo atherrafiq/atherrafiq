@@ -77,6 +77,18 @@ I enjoy turning operational problems into dependable software systems.
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/atherrafiq">
+  <img src="https://streak-stats.demolab.com?user=atherrafiq&hide_border=true" alt="GitHub Streak" />
+</a>
+
+</div>
+
+---
+
 ## 🚀 Selected Projects
 
 | Project                                                                                                  | What it demonstrates                                                                     | Stack                                                 |
@@ -135,18 +147,6 @@ University of the Punjab · 2018
 
 * REST APIs with Flask and Python — Udemy
 * Advanced REST APIs with Flask and Python — Udemy
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/atherrafiq">
-  <img src="https://streak-stats.demolab.com?user=atherrafiq&hide_border=true" alt="GitHub Streak" />
-</a>
-
-</div>
 
 ---
 
