@@ -2,9 +2,11 @@
 
 # Hi, I'm Ather Rafiq 👋
 
-### Python Backend Engineer · APIs · ETL · SaaS · Cloud
+### Python Backend Engineer · AI/LLM Integration · APIs · ETL · SaaS · Cloud
 
 Backend-focused software engineer with **7+ years of experience** building production APIs, enterprise applications, data pipelines, automation workflows, and cloud-hosted systems.
+
+I also have an academic background in **Artificial Intelligence, Machine Learning, Deep Learning, and NLP**, with hands-on interest in integrating modern **LLMs and AI APIs into backend applications**.
 
 Currently working as a **Full Stack Python Developer in Abu Dhabi, UAE**.
 
@@ -33,7 +35,7 @@ src="https://komarev.com/ghpvc/?username=atherrafiq&style=flat-square&color=0A66
 alt="Profile views"
 />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/atherrafiq">
   <img
@@ -48,18 +50,22 @@ alt="Profile views"
 
 ## 👨‍💻 About Me
 
-I build backend systems where **reliability, data integrity, automation, and maintainability** matter.
+I build backend systems where **reliability, data integrity, automation, scalability, and maintainability** matter.
 
-My professional work includes:
+My professional and technical work includes:
 
 * Building REST APIs and backend services with **Python, FastAPI, Flask, and Django**
 * Designing **ETL pipelines**, automation workflows, and bulk data-processing systems
 * Developing enterprise and SaaS applications backed by **PostgreSQL, SQL Server, and MongoDB**
-* Building offline-first field applications with **React Native + Python APIs**
+* Building offline-first applications with **React Native + Python APIs**
 * Implementing authentication and authorization using **JWT and OAuth**
-* Deploying and supporting applications using **Docker, Kubernetes, Linux, Nginx, AWS, and Azure**
+* Deploying applications using **Docker, Kubernetes, Linux, Nginx, AWS, and Azure**
+* Working with **Machine Learning, Deep Learning, NLP, and neural-network concepts**
+* Understanding **model training, validation, preprocessing, feature engineering, and evaluation workflows**
+* Building and experimenting with **LLM-powered applications and AI API integrations**
+* Using **OpenAI / ChatGPT APIs, prompt engineering, structured prompting, and AI-assisted development workflows**
 
-I enjoy turning operational problems into dependable software systems.
+I'm particularly interested in combining **backend engineering with applied AI**, especially AI-powered APIs, automation platforms, intelligent enterprise applications, RAG-style systems, and LLM integrations.
 
 ---
 
@@ -67,7 +73,7 @@ I enjoy turning operational problems into dependable software systems.
 
 <div align="center">
 
-### Backend
+### Backend Engineering
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -75,12 +81,29 @@ I enjoy turning operational problems into dependable software systems.
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 
+### 🤖 AI, Machine Learning & LLMs
+
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square" />
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT_API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-5A67D8?style=flat-square" />
+<img src="https://img.shields.io/badge/Model_Training-FF6F00?style=flat-square" />
+
+### AI Concepts & Workflows
+
+`LLM Integration` · `Prompt Engineering` · `Model Training` · `Model Evaluation` · `Data Preprocessing` · `Feature Engineering` · `Neural Networks` · `Deep Learning` · `Natural Language Processing` · `AI Automation` · `AI-Assisted Development`
+
 ### Data & Databases
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/ETL-Data_Engineering-4B8BBE?style=flat-square" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 
 ### Cloud & DevOps
 
@@ -97,13 +120,13 @@ I enjoy turning operational problems into dependable software systems.
 
 ## 🚀 Selected Projects
 
-| Project                                                                                                  | What it demonstrates                                                                     | Stack                                                 |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| **[ChatPilot AI Operations Assistant](https://github.com/atherrafiq/chatpilot-ai-operations-assistant)** | Document ingestion, persistent conversations, contextual Q&A and secure user-scoped data | Flask · PostgreSQL · SQLAlchemy · OpenAI API · Docker |
-| **[FieldOps Sync](https://github.com/atherrafiq/fieldops-sync)**                                         | Offline-first synchronization and idempotent event processing for field applications     | FastAPI · PostgreSQL · SQLAlchemy · Docker · pytest   |
-| **[DataFlow ETL Service](https://github.com/atherrafiq/dataflow-etl-service)**                           | Validation, transformation, de-duplication and reporting for recurring data feeds        | FastAPI · PostgreSQL · ETL · Docker                   |
-| **[TenantCore API](https://github.com/atherrafiq/tenantcore-api)**                                       | Multi-tenant authentication, authorization, organization boundaries and audit logging    | FastAPI · JWT · PostgreSQL · SQLAlchemy · Docker      |
-| **[Ops Maintenance Hub](https://github.com/atherrafiq/ops-maintenance-hub)**                             | Asset management, maintenance workflows, assignments and audit history                   | Django REST Framework · PostgreSQL · Docker           |
+| Project                                                                                                  | What it demonstrates                                                                               | Stack                                                          |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **[ChatPilot AI Operations Assistant](https://github.com/atherrafiq/chatpilot-ai-operations-assistant)** | LLM-powered document Q&A, document ingestion, contextual conversations and secure user-scoped data | Python · Flask · PostgreSQL · SQLAlchemy · OpenAI API · Docker |
+| **[FieldOps Sync](https://github.com/atherrafiq/fieldops-sync)**                                         | Offline-first synchronization and idempotent event processing for field applications               | FastAPI · PostgreSQL · SQLAlchemy · Docker · pytest            |
+| **[DataFlow ETL Service](https://github.com/atherrafiq/dataflow-etl-service)**                           | Validation, transformation, de-duplication and reporting for recurring data feeds                  | FastAPI · PostgreSQL · ETL · Docker                            |
+| **[TenantCore API](https://github.com/atherrafiq/tenantcore-api)**                                       | Multi-tenant authentication, authorization, organization boundaries and audit logging              | FastAPI · JWT · PostgreSQL · SQLAlchemy · Docker               |
+| **[Ops Maintenance Hub](https://github.com/atherrafiq/ops-maintenance-hub)**                             | Asset management, maintenance workflows, assignments and audit history                             | Django REST Framework · PostgreSQL · Docker                    |
 
 ---
 
@@ -141,11 +164,17 @@ Worked on OpenAPI metadata, endpoint documentation, HTTP response documentation,
 
 ## 🎓 Education
 
-**M.S. Computer Sciences**
-COMSATS University Islamabad — Lahore Campus · 2022
+### M.S. in Computer Sciences — Artificial Intelligence Focus
 
-**B.S. Computer Sciences**
-University of the Punjab · 2018
+**COMSATS University Islamabad — Lahore Campus · 2022**
+
+Academic focus included:
+
+`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Natural Language Processing` · `Neural Networks` · `Model Training & Evaluation`
+
+### B.S. in Computer Sciences
+
+**University of the Punjab · 2018**
 
 ---
 
@@ -158,8 +187,10 @@ University of the Punjab · 2018
 
 <div align="center">
 
-### Let's build reliable software.
+### Let's build reliable and intelligent software.
 
-I'm open to **Python Backend / Senior Python / API / Data Platform opportunities** across Europe, internationally, and remotely.
+I'm open to opportunities in **Python Backend Engineering, Senior Python Development, AI/LLM Integration, API Platforms, Data Engineering, and AI-powered Backend Systems** across Europe, internationally, and remotely.
 
-[LinkedIn](https://www.linkedin.com/in/ather1rafiq/) · [GitHub](https://github.com/atherrafiq) · [Email](mailto:a)
+[LinkedIn](https://www.linkedin.com/in/ather1rafiq/) · [GitHub](https://github.com/atherrafiq) · [Email](mailto:ather1rafiq@gmail.com)
+
+</div>
