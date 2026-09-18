@@ -187,7 +187,11 @@ Worked on OpenAPI metadata, endpoint documentation, HTTP response documentation,
 
 Academic focus included:
 
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Natural Language Processing` · `Neural Networks` · `Model Training & Evaluation`
+<img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square" /> 
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square" /> 
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square" /> 
+<img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square" /> 
+<img src="https://img.shields.io/badge/Neural_Networks-8A2BE2?style=flat-square" />
 
 ### B.S. in Computer Sciences
 
