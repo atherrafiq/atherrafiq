@@ -142,11 +142,9 @@ University of the Punjab · 2018
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=atherrafiq&show_icons=true&hide_border=true&rank_icon=github" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=atherrafiq&hide_border=true" />
+<a href="https://github.com/atherrafiq">
+  <img src="https://streak-stats.demolab.com?user=atherrafiq&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
