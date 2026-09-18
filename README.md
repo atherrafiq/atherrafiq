@@ -10,8 +10,6 @@ I also have an academic background in **Artificial Intelligence, Machine Learnin
 
 Currently working as a **Full Stack Python Developer in Abu Dhabi, UAE**.
 
-<br/>
-
 <a href="https://www.linkedin.com/in/ather1rafiq/">
   <img src="https://img.shields.io/badge/LinkedIn-Ather_Rafiq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
