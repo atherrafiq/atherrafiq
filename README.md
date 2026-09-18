@@ -34,6 +34,7 @@ Currently working as a **Full Stack Python Developer in Abu Dhabi, UAE**.
 src="https://komarev.com/ghpvc/?username=atherrafiq&style=flat-square&color=0A66C2&label=Profile+Views"
 alt="Profile views"
 />
+<br/>
 <a href="https://github.com/atherrafiq">
   <img
     src="https://streak-stats.demolab.com?user=atherrafiq&hide_border=true"
