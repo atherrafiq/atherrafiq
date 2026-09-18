@@ -57,6 +57,7 @@ My professional and technical work includes:
 * Building REST APIs and backend services with **Python, FastAPI, Flask, and Django**
 * Designing **ETL pipelines**, automation workflows, and bulk data-processing systems
 * Developing enterprise and SaaS applications backed by **PostgreSQL, SQL Server, and MongoDB**
+* Building web and mobile applications with **React.js, React Native, JavaScript, Bootstrap, and Python APIs**
 * Building offline-first applications with **React Native + Python APIs**
 * Implementing authentication and authorization using **JWT and OAuth**
 * Deploying applications using **Docker, Kubernetes, Linux, Nginx, AWS, and Azure**
@@ -104,6 +105,16 @@ I'm particularly interested in combining **backend engineering with applied AI**
 <img src="https://img.shields.io/badge/ETL-Data_Engineering-4B8BBE?style=flat-square" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+
+### Frontend & Mobile
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
 
 ### Cloud & DevOps
 
