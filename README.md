@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # Hi, I'm Ather Rafiq 👋
 
 ### Python Backend Engineer · APIs · ETL · SaaS · Cloud
@@ -20,6 +20,8 @@ Currently working as a **Full Stack Python Developer in Abu Dhabi, UAE**.
   <img src="https://img.shields.io/badge/GitHub-atherrafiq-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+</div>
+
 ---
 
 ## 📊 GitHub Activity
@@ -31,6 +33,8 @@ src="https://komarev.com/ghpvc/?username=atherrafiq&style=flat-square&color=0A66
 alt="Profile views"
 />
 
+<br/><br/>
+
 <a href="https://github.com/atherrafiq">
   <img
     src="https://streak-stats.demolab.com?user=atherrafiq&hide_border=true"
@@ -41,7 +45,6 @@ alt="Profile views"
 </div>
 
 ---
-
 
 ## 👨‍💻 About Me
 
@@ -159,6 +162,4 @@ University of the Punjab · 2018
 
 I'm open to **Python Backend / Senior Python / API / Data Platform opportunities** across Europe, internationally, and remotely.
 
-[LinkedIn](https://www.linkedin.com/in/ather1rafiq/) · [GitHub](https://github.com/atherrafiq) · [Email](mailto:ather1rafiq@gmail.com)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/ather1rafiq/) · [GitHub](https://github.com/atherrafiq) · [Email](mailto:a)
